@@ -1,0 +1,25 @@
+https://salt.security/blog/traveling-with-oauth-account-takeover-on-booking-com | OAuth Account Takeover - Account Takeover on Booking.com
+https://www.cobalt.io/blog/cobalt-pentest-case-study-oauth-redirect-to-account-takeover | Cobalt Pentest Case Study: OAuth Redirect to Account Takeover
+https://infosecwriteups.com/oauth-misconfiguration-leads-to-full-account-takeover-22b032cb6732 | OAuth Misconfiguration Leads to Full Account takeover | by Yasser Mohammed (@n3r0li) | InfoSec Write-ups
+https://hackerone.com/reports/1552110 | HackerOne
+https://blog.dixitaditya.com/oauth-account-takeover | Exploiting OAuth: Journey to Account Takeover
+https://www.arneswinnen.net/2017/06/authentication-bypass-on-airbnb-via-oauth-tokens-theft/ | Authentication bypass on Airbnb via OAuth tokens theft – Arne Swinnen
+https://gorkaaa.medium.com/4-vulnerabilidades-reales-en-google-oauth-an%C3%A1lisis-t%C3%A9cnico-paso-a-paso-26e6d8ac1b90 | 🔐 4 vulnerabilidades reales en Google OAuth — análisis técnico paso a paso | by Gorka | Medium
+https://medium.com/@SKaif009/%EF%B8%8F-advanced-oauth-vulnerabilities-deep-dive-b941c90f49b6 | 🛠️ Advanced OAuth Vulnerabilities — Deep Dive | by Shah kaif | Medium
+https://medium.com/legionhunters/how-i-chained-a-simple-text-injection-with-oauth-misconfiguration-on-nasa-497223652bde | How I Chained a Simple Text Injection with OAuth Misconfiguration on NASA | by l1ackersalman | LegionHunters | Medium
+https://medium.com/@elghzaly/account-takeover-via-facebook-oauth-misconfiguration-f5eb1a943873 | Account Takeover via Facebook OAuth Misconfiguration | by Ahmed Elghazaly | Medium
+https://medium.com/@ashokpandiya71/misconfigured-oauth-instant-account-takeover-even-before-signup-62ae709c9f7e | Misconfigured OAuth = Instant Account Takeover (Even Before Signup!) | by Ashok kumar pareek | Medium
+https://systemweakness.com/how-i-logged-in-as-another-user-via-broken-oauth-identity-binding-9a5265d84046?source=rss------bug_bounty-5 | 🚨 How I Logged in as Another User via Broken OAuth Identity Binding | by Digvijay Gholase | System Weakness
+https://z00x.medium.com/from-open-redirect-to-full-account-takeover-exploiting-oauth-misconfiguration-35b0d215cf02 | 🚨 From Open Redirect in login & logout: Exploiting OAuth Misconfiguration | by z00x | Medium
+https://cybersecuritywriteups.com/1000-bounty-oauth-bypass-97c3658729c0 | 💸1000$ Bounty: OAuth Bypass🚀. 🔥 Hello Fellow Bug Bounty Hunters! 🔥 | by Abhijeet kumawat | Cyber Security Write-ups
+https://medium.com/cloud-security/oauth-and-jwt-attacks-3840fe2a113f | OAuth, OpenID, and JWT Attacks. How do I hack thee? Let me count the… | by Teri Radichel | Cloud Security | Medium
+https://infosecwriteups.com/1-click-oauth-token-hijacking-via-google-apps-script-a-design-flaw-ignored-bug-bounty-02c6997254ff | 1-CLick OAuth Token Hijacking via Google Apps Script – A Design Flaw Ignored? | Bug Bounty | by Ph.Hitachi | InfoSec Write-ups
+https://infosecwriteups.com/oauth-account-hijacking-via-redirect-uri-ae8ca7a66930 | OAuth Account Hijacking via redirect_uri | by Ryan G. Cox | InfoSec Write-ups
+https://medium.com/@ProwlSec/the-oauth-oversight-when-configuration-errors-turn-into-account-hijacks-5ed1f9c83d16 | The OAuth Oversight: When Configuration Errors Turn into Account Hijacks | by ProwlSec | Medium
+https://medium.com/@itsTal3at/forced-oauth-profile-linking-lead-to-account-takeover-954114158818 | Forced OAuth Profile Linking Lead to Account Takeover | by Ahmed Talaat (ItsTal3at) | Medium
+https://7odamoo.medium.com/xss-oauth-misconfigs-token-theft-and-ato-d0837c44cd31 | XSS + OAuth Misconfigs = Token Theft + ATO | by Mahmoud Hamed | Medium
+https://cybxis.medium.com/a-bypass-on-gitlabs-login-email-verification-via-oauth-ropc-flow-e194242cad96 | A bypass on GitLab’s Login Email Verification via OAuth ROPC flow. | by cybxis | Medium
+https://medium.com/@security.tecno/oauth-impersonation-attack-misconfiguration-of-facebook-and-google-oauth-leading-to-account-9f838439de31 | OAuth Impersonation Attack: Misconfiguration of Facebook and Google OAuth Leading to Account Takeover Crisis | by TECNO Security | Medium
+https://hackerone.com/reports/1861974 | pixiv | Report #1861974 - Stealing Users OAuth authorization code via redirect_uri | HackerOne
+https://infosecwriteups.com/exploiting-oauth-authentication-vulnerabilities-part-ii-6c150f492e62 | Exploiting OAuth authentication vulnerabilities Part II | by Hashar Mujahid | InfoSec Write-ups
+https://infosecwriteups.com/exploiting-oauth-authentication-vulnerabilities-part-iii-e3db79c83359 | Exploiting OAuth authentication vulnerabilities Part III | by Hashar Mujahid | InfoSec Write-ups
