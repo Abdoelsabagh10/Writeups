@@ -1,2 +1,2 @@
 # Writeups
-Some of writeups 
+Some writeups 
